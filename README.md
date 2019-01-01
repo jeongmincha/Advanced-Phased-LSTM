@@ -4,6 +4,10 @@ The time gate function was linear triangle shape function in the open phase, and
 Our model has two variants; the first one (qPLSTM) has the quadratic symmetric function in the open phase, and leaky linear function in the closed phase. 
 the second (clPLSTM) has linear triangle shape function in the open phase, and constant zero function in the closed phase.
 
+![](./images/baseline.png)
+
+![](./images/ours.png)
+
 ## Result
 ![](./results/result-1.png)
 
